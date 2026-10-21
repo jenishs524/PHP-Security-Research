@@ -1,7 +1,6 @@
-# PHP-Security-Research
 PHP2Shell Vulnerability Research & Patch Analysis
 
-Researcher: Jenik Shrestha/genishs524/404_Not_Found
+Researcher: Jenik Shrestha/jenishs524/404_Not_Found
 Research Area: PHP Core Security
 Research Date: 22 October 2026
 Status: Preliminary Research — Independent Verification Pending
@@ -75,6 +74,6 @@ A new CVE may be requested if the finding is distinct, valid, and accepted throu
 
 This document establishes a preliminary framework for independent PHP security research. Final conclusions will be added only after testing, source-code review, and evidence collection.
 
-Researcher attribution: Jenik Shrestha/genishs524/404_Not_Found
+Researcher attribution: Jenik Shrestha/jenishs524/404_Not_Found
 
 All findings and conclusions will reflect the research actually performed by the author.
