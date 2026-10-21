@@ -1,8 +1,11 @@
 PHP2Shell Vulnerability Research & Patch Analysis
 
 Researcher: Jenik Shrestha/jenishs524/404_Not_Found
+
 Research Area: PHP Core Security
+
 Research Date: 22 October 2026
+
 Status: Preliminary Research — Independent Verification Pending
 
 1. Abstract
